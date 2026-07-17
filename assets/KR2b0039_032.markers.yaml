@@ -17,6 +17,7 @@ markers:
       ', id: KR2b0039_krp_032-bkkkrnewl3}
   - {type: line-break, offset: 16, content: '', id: KR2b0039_WYG_032-1a03}
   - {type: punctuation, offset: 21, content: (, id: KR2b0039_krp_032-bkkpn1}
+  - {type: voice, offset: 21, length: 23, name: note, id: n1}
   - {type: substitution, offset: 28, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: punctuation, offset: 33, content: /, id: KR2b0039_krp_032-bkkpn2}
   - {type: punctuation, offset: 44, content: ), id: KR2b0039_krp_032-bkkpn3}
@@ -503,6 +504,7 @@ markers:
   - {type: line-break, offset: 1317, content: '', id: KR2b0039_WYG_032-6b03}
   - {type: indent, offset: 1317, content: 　　　, id: KR2b0039_krp_032-bkkind56}
   - {type: punctuation, offset: 1318, content: (, id: KR2b0039_krp_032-bkkpn4}
+  - {type: voice, offset: 1318, length: 574, name: note, id: n2}
   - {type: substitution, offset: 1328, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: substitution, offset: 1330, original: 迺, replacement: 乃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16166}}
   - {type: punctuation, offset: 1336, content: /, id: KR2b0039_krp_032-bkkpn5}
@@ -837,6 +839,7 @@ markers:
   - {type: indent, offset: 2356, content: 　　　, id: KR2b0039_krp_032-bkkind87}
   - {type: substitution, offset: 2356, original: 闗, replacement: 關, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19735}}
   - {type: punctuation, offset: 2370, content: (, id: KR2b0039_krp_032-bkkpn55}
+  - {type: voice, offset: 2370, length: 385, name: note, id: n3}
   - {type: punctuation, offset: 2375, content: /, id: KR2b0039_krp_032-bkkpn56}
   - {type: substitution, offset: 2375, original: 䝉, replacement: 蒙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-4689}}
   - {type: punctuation, offset: 2380, content: ), id: KR2b0039_krp_032-bkkpn57}
@@ -1056,6 +1059,7 @@ markers:
   - {type: line-break, offset: 3073, content: '', id: KR2b0039_WYG_032-11b01}
   - {type: indent, offset: 3073, content: 　　, id: KR2b0039_krp_032-bkkind114}
   - {type: punctuation, offset: 3079, content: (, id: KR2b0039_krp_032-bkkpn94}
+  - {type: voice, offset: 3079, length: 171, name: note, id: n4}
   - {type: punctuation, offset: 3092, content: /, id: KR2b0039_krp_032-bkkpn95}
   - {type: substitution, offset: 3099, original: 强, replacement: 強, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17538}}
   - {type: punctuation, offset: 3105, content: ), id: KR2b0039_krp_032-bkkpn96}
@@ -1705,6 +1709,7 @@ markers:
   - {type: line-break, offset: 5024, content: '', id: KR2b0039_WYG_032-18a04}
   - {type: indent, offset: 5024, content: 　　　, id: KR2b0039_krp_032-bkkind210}
   - {type: punctuation, offset: 5024, content: (, id: KR2b0039_krp_032-bkkpn109}
+  - {type: voice, offset: 5024, length: 26, name: note, id: n5}
   - {type: punctuation, offset: 5037, content: /, id: KR2b0039_krp_032-bkkpn110}
   - {type: punctuation, offset: 5050, content: ), id: KR2b0039_krp_032-bkkpn111}
   - {type: 'kr:newline', offset: 5050, content: '
@@ -2273,4 +2278,4 @@ markers:
 
       ', id: KR2b0039_krp_032-bkkkrnewl432}
   back: []
-hash: sha256:14f1028c578cbefd8c761c192ec7a3bd2a748690fe48410d8e3416221b4fa9db
+hash: sha256:e82638a6d8bc6f998e22bba280ac888e5218ad0e6faa63495176c771cc921900
